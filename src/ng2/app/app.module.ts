@@ -40,6 +40,10 @@ angular.module('phonecatApp')
       {
         path: 'ng2-route',
         component: Ng2DemoComponent
+      },
+      {
+        path: 'ng2-route-laureate-team',
+        component: Ng2DemoComponent
       }
     ],
     {
